@@ -1,0 +1,28 @@
+_repo: Kreivin-kaupunki-I-b-Historiallinen-romaani-Pietari-Brahen-aikuiselta-Pielisen-pokostalta_74641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eronen, Simo
+    birthdate: 1881
+    deathdate: 1936
+    gutenberg_agent_id: '57528'
+    url: http://www.gutenberg.org/2009/agents/57528
+description: ''
+gutenberg_issued: '2024-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74641'
+language: fi
+pgterms:marc905: 20241002120151eronen
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kreivin kaupunki I : $b Historiallinen romaani Pietari Brahen aikuiselta Pielisen
+  pokostalta'
+url: http://www.gutenberg.org/ebooks/74641
