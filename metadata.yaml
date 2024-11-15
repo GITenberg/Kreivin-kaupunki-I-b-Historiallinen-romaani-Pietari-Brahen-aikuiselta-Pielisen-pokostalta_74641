@@ -1,5 +1,8 @@
 _repo: Kreivin-kaupunki-I-b-Historiallinen-romaani-Pietari-Brahen-aikuiselta-Pielisen-pokostalta_74641
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eronen, Simo
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '57528'
     url: http://www.gutenberg.org/2009/agents/57528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74641#Kreivin-kaupunki-I-b-Historiallinen-romaani-Pietari-Brahen-aikuiselta-Pielisen-pokostalta
 gutenberg_issued: '2024-10-26'
 gutenberg_type: Text
 identifiers:
